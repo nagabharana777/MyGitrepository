@@ -1,0 +1,5 @@
+This is my file
+I had to enter feature1
+
+This is my file
+I am adding feature2
